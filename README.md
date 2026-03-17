@@ -14,3 +14,6 @@ pointer’dır. Bu yöntem genellikle eleman silme/taşıma, duplicate temizleme
 kullanılır. Bu kategoriye Remove Duplicates from Sorted Array, Remove Element, Move Zeroes, Linked List Cycle, Middle of the Linked List gibi problemler girer; ayrıca bazı durumlarda
 Sort Colors ve Partition List gibi problemler de bu mantıkla çözülür. Eğer problemde “remove, move, compact, unique, in-place, cycle, middle” gibi ifadeler geçiyorsa ve bir pointer gezerken
 diğerinin veri yerleştirdiğini görüyorsan, doğru yaklaşım Fast & Slow’dur.
+
+
+Problems will be added here.
